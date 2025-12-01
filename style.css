@@ -167,7 +167,7 @@ button{
     }
 }
 
-@media(max-width: 320px){
+@media(max-width: 380px){
     .center{
         height: 100vh;
         width: 100vw;
@@ -194,6 +194,10 @@ button{
     height: auto;
     box-shadow: none;
     border-radius: 0;
+    }
+    html{
+        background-color: white;
+
     }
 
 
