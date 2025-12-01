@@ -157,7 +157,7 @@ button{
     padding-right: 10px;
 }
 
-@media(max-width: 777px ) {
+@media(max-width: 743px ) {
     .container{
         display: flex;
         flex-direction: column;
@@ -167,7 +167,7 @@ button{
     }
 }
 
-@media(max-width: 380px){
+@media(max-width: 450px){
     .center{
         height: 100vh;
         width: 100vw;
